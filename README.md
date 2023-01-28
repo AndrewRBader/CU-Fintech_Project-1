@@ -17,7 +17,7 @@ Objectives:
 •	Utilize findings to provide guidance into future recessionary environments
 
 Recessions and Time Periods:
-•	Time Frame Being Analyzed: 06/19/2000 – 1/23/2023
+•	Time Frame Being Analyzed: 06/19/2000 – 1/2/2023
 •	COVID-19 Recession (February – April 2020)
 •	The Great Recession (December 2007 – June 2009)
 •	The September 11 & Tech Bubble Recession (March – November 2001)
