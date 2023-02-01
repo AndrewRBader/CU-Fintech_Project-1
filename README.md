@@ -1,5 +1,15 @@
-# CU-Fintech_Project-1
-Project 1 CU Fintech Program
+# Project 1: Analysis of Asset Performance in a Recession
+
+Code developed by Andrew Bader, Evelyn Nazginov, Kunal S, and Max Accurso
+
+## Table of Contents
+1. [Introduction](#Introduction)
+    - a. [Asset Classes and Index Used](#Asset)
+
+## 1. Introduction <a name="Introduction"></a>
+
+
+
 
 Asset Class Performance Against the Stock Market During Past 3 Recessions
 
@@ -11,7 +21,6 @@ Objectives:
 •	Calculate steepest decline (or incline) for the assets from peak to trough in each recession
 •	Calculate the percentage of value decrease (or increase) over the course of the recession
 •	Calculate the time to recovery (pre-recession levels) for each asset
-•	Calculate the averages among each recession to exhibit the overall performance of an asset
 •	Report any intermarket relationship or correlations findings
 •	Display results in visual formats and charts
 •	Utilize findings to provide guidance into future recessionary environments
