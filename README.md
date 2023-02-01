@@ -193,7 +193,7 @@ The technologies used include:
 
 Tasks: 
 - **Andrew Bader**: Cleaning data and processing for analysis,setting up github version control
-- **Kunal Srinivasan**: Data manipulation, processing and analysis
+- **Kunal Srinivasan**: Data manipulation, processing and recession analysis
 - **Max Accurso**: Project ideation, data collection, recession analysis, Readme
 - **Evelyn Nazginov**: recession analysis and power point presentation
 
