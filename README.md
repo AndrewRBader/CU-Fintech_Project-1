@@ -150,6 +150,10 @@ The year 2020 was marked by one of the most severe economic downturns since the 
 From the raw csvs, pandas read_csv function was used to import the data. The index column was set to the first data column of each csv. Dates were parsed and standardized amongst each data set using pandas' csv functions. The axis column was renamed and standardized across data sets for ease of concatination, joining, and subsequent analysis. Each file required specific cleaning algorithms. For data files with commas and dashes, looping algorithms were used to go through each column and remove commas and dashes. These looping algorithms were also used to convert the imported string data into floats for subsequent analysis. The pandas .head function was used to visualize columns of the data as they were processed to check correctness of the data and columns. Column renaming functions were used accross data sets in order to standardize and ease analysis and data manipulation. Each set of data was plotted using hvplot in order to check "plotability" before moving on to futher manipulation and analysis. The to_csv pandas function was then used to save the resultant cleaned data as csvs in a directory with a specified path.
 
 ### b. Approach <a name="Approach"></a>
+Cleaned csv files were converted into pandas dataframe using a for-loop and a python dictionary for automation. Automated code was customized to account for file level differences in formats (eg. the csv for gold index contained only two columns of data as opposed to six in others). Additionally the code was parametrized which allowed for it to be used systematically across all recession periods by simple adjustments of the parameters. 
+
+Resulting dataframes were concatenated to create the master data for analysis of a given period of recession. Pandas `corr` function was used to create a correlation matrix. `hvplot` was used to generate several visualizations for review and analysis. Separate codes were created to build algorithms for calculation of key metrices like steepest decline, overall decline and days to recovery calculations.
+
 The technologies used include:
 - Python: the sole development language of the analysis
 - pathlib library: to access and import csv files for various processes
@@ -169,10 +173,12 @@ Challenges:
 - managing version control
 - developing meaningful analytics and corresponding processing algorithms
 - cleaning the data with appropriate algorithms
+- assymetric data structure resulted in process errors when the code was deployed for recession periods other than on which it was built
 
 Successes:
 - Developed a number of interesting plots describing our findings and analysis
 - Found complete sets of data for all desired assets which were successfully cleaned for analysis
+- Parametrized code design allowed different users to use the master code uniformly with simple parameters changes 
 - Came up with interesting observations and analyses
 
 ### c. Data Sources <a name="Sources"></a>
