@@ -1,6 +1,6 @@
 # Project 1: Analysis of Asset Performance in a Recession
 
-Code developed by Andrew Bader, Evelyn Nazginov, Kunal S, and Max Accurso
+Code developed by Andrew Bader, Evelyn Nazginov, Kunal Srinivasan, and Max Accurso
 
 ## Table of Contents
 1. [Introduction](#Introduction)
@@ -154,8 +154,8 @@ The year 2020 was marked by one of the most severe economic downturns since the 
 
 1. Yahoo Finance (https://finance.yahoo.com/)
 2. Crude Oil Historical (https://www.investing.com/commodities/crude-oil-historical-data)
-3. Economic Data (https://www.bankrate.com/banking/federal-reserve/economic-indicator-survey-recession-risks-january-2023/)
-4. Sector ETFs (https://www.cnbc.com/sector-etfs/)
-5. Gold Historical (https://data.nasdaq.com/data/LBMA/GOLD-gold-price-london-fixing)
-6. Past Recessions Overview (https://www.forbes.com/advisor/investing/how-long-do-recessions-last/)
-7. Recession Definition (https://www.rba.gov.au/education/resources/explainers/recession.html)
+3. Sector ETFs (https://www.cnbc.com/sector-etfs/)
+4. Gold Historical (https://data.nasdaq.com/data/LBMA/GOLD-gold-price-london-fixing)
+5. Past Recessions Overview (https://www.forbes.com/advisor/investing/how-long-do-recessions-last/)
+6. Recession Definition (https://www.rba.gov.au/education/resources/explainers/recession.html)
+7. Economic Data (https://www.bankrate.com/banking/federal-reserve/economic-indicator-survey-recession-risks-january-2023/)
