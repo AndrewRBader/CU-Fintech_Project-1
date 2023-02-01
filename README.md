@@ -165,6 +165,7 @@ Cleaned csv files were converted into pandas dataframe using a for-loop and a py
 Resulting dataframes were concatenated to create the master data for analysis of a given period of recession. Pandas `corr` function was used to create a correlation matrix. `hvplot` was used to generate several visualizations for review and analysis. Separate codes were created to build algorithms for calculation of key metrices like steepest decline, overall decline and days to recovery calculations.
 
 The technologies used include:
+
 - Python: the sole development language of the analysis
 - pathlib library: to access and import csv files for various processes
 - hvplot: for plotting interactive and informative plots
