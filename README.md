@@ -16,7 +16,7 @@ Code developed by Andrew Bader, Evelyn Nazginov, Kunal S, and Max Accurso
 4. [Project Operations](#Operations)
     - a. [Data Collection and Cleanup](#Data)
     - b. [Approach](#Approach)
-    - c. [Sources](#Sources)
+    - c. [Data Sources](#Sources)
 
 ## 1. Introduction <a name="Introduction"></a>
 
@@ -63,11 +63,65 @@ As fears of an upcoming recession in the USA ramp up, our group conducted an in-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+![9/11 Recession TNX and S&P](Charts/9-11%20Recession/9_11_TNX_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
+![9/11 Recession Gold and S&P](Charts/9-11%20Recession/9_11_Gold_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![9/11 Recession USD and S&P](Charts/9-11%20Recession/9_11_USD_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![9/11 Recession CBOE and S&P](Charts/9-11%20Recession/9_11_CBOE_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### b. The 2008 Recession <a name="2008"></a>
 
+![Great Recession Equity Sectors](Charts/Great%20Recession/Great_Sectors.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![Great Recession TNX and S&P](Charts/Great%20Recession/Great_TNX_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![Great Recession Gold and S&P](Charts/Great%20Recession/Great_Gold_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![Great Recession USD and S&P](Charts/Great%20Recession/Great_USD_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![Great Recession CBOE and S&P](Charts/Great%20Recession/Great_CBOE_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ### c. The 2020 Recession <a name="2020"></a>
+
+![COVID-19 Recession Equity Sectors](Charts/COVID%20Recession/COVID_Sectors.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![COVID-19 Recession TNX and S&P](Charts/COVID%20Recession/COVID_TNX_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![COVID-19 Recession Gold and S&P](Charts/COVID%20Recession/COVID_Gold_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![COVID-19 Recession USD and S&P](Charts/COVID%20Recession/COVID_USD_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![COVID-19Recession CBOE and S&P](Charts/COVID%20Recession/COVID_CBOE_S%26P.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## 3. Conclusions and Key Findings <a name="Findings"></a>
 
@@ -77,4 +131,11 @@ As fears of an upcoming recession in the USA ramp up, our group conducted an in-
 
 ### b. Approach <a name="Approach"></a>
 
-### c. Sources <a name="Sources"></a>
+### c. Data Sources <a name="Sources"></a>
+
+1. Yahoo Finance (https://finance.yahoo.com/)
+2. Crude Oil Historical (https://www.investing.com/commodities/crude-oil-historical-data)
+3. Economic Data (https://www.bankrate.com/banking/federal-reserve/economic-indicator-survey-recession-risks-january-2023/)
+4. Sector ETFs (https://www.cnbc.com/sector-etfs/)
+5. Gold Historical (https://data.nasdaq.com/data/LBMA/GOLD-gold-price-london-fixing)
+6. Past Recessions Overview (https://www.forbes.com/advisor/investing/how-long-do-recessions-last/)
