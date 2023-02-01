@@ -158,7 +158,9 @@ The CBOE Volatility Index, or VIX, is a real-time market index that reflects mar
 
 The relationship between the US dollar and the S&P 500 during the 2001 recession was different compared to more recent recessions. In 2001, the US dollar and the S&P 500 showed a positive relationship, however, this relationship has become negative in recent years. This can be attributed to foreign investment, as more investors put their money into US equities, they first need to buy US dollars to purchase American stocks, causing both indexes to increase in value.
 
-Finally, the most intriguing relationship is between gold and the stock market. During periods when the S&P 500 is in the lower half of its value, there is a positive relationship between the index and gold. However, as the S&P 500 approaches its median value, an inflection point occurs and the relationship turns negative as the S&P 500 continues to rise. Investors prefer the higher returns of the S&P 500 over the stability of gold during economic expansion, causing this shift in the relationship.
+The most intriguing relationship is between gold and the stock market. During periods when the S&P 500 is in the lower half of its value, there is a positive relationship between the index and gold. However, as the S&P 500 approaches its median value, an inflection point occurs and the relationship turns negative as the S&P 500 continues to rise. Investors prefer the higher returns of the S&P 500 over the stability of gold during economic expansion, causing this shift in the relationship.
+
+
 
 ## 4. Project Operations <a name="Operations"></a>
 
