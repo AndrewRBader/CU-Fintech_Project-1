@@ -160,7 +160,15 @@ The relationship between the US dollar and the S&P 500 during the 2001 recession
 
 The most intriguing relationship is between gold and the stock market. During periods when the S&P 500 is in the lower half of its value, there is a positive relationship between the index and gold. However, as the S&P 500 approaches its median value, an inflection point occurs and the relationship turns negative as the S&P 500 continues to rise. Investors prefer the higher returns of the S&P 500 over the stability of gold during economic expansion, causing this shift in the relationship.
 
+Now let's examine how individual sectors perform during economic recessions. By using three metrics, we have identified the best and worst performers. Although all sectors tend to move in a similar fashion during a recession, we have singled out those that should be avoided and those that are considered safe bets.
 
+Avoid: The oil futures sector was the biggest red flag due to its steepest decline and overall percentage change, with an average 60% drop from peak to trough. The second and third riskiest sectors, finance and energy, saw an average decline of 12% lower than oil. These three sectors comprised the bottom 25% of performers and had a slower time to recovery compared to others.
+
+Longest to Recover: The sectors that took the longest to return to pre-recession levels were utilities, tech, and finance, with an average recovery time of over 1000 days.
+
+Winners: Of all the sectors, only two assets showed positive overall change during a recession - gold and the US dollar. The healthcare sector emerged as the least risky and most stable option of the equities, with a negative 30% steepest decline but only a 10.7% decrease overall in each recession. Healthcare also had the quickest recovery time amongst its ETF peers, at an average of 564 days. Gold and the US dollar were the clear favorites during economic downturns, with gold averaging a 10% growth rate and the US dollar averaging 3.7% growth over the past three recessions. These two assets also had the shortest recovery time, averaging around 315 days.
+
+In conclusion, our analysis of three recessions between 2001 and 2020 reveals that there are consistent relationships between certain metrics during economic downturns. The 10-Year Treasury Yield and the S&P 500 tend to move in tandem, the CBOE Volatility Index and the S&P 500 have a strong inverse relationship, and gold and the S&P 500 have an inflection point relationship that changes as the S&P 500 approaches its median value. Our examination of the different equity sectors revealed that the oil futures sector is the riskiest and the healthcare sector is the least risky. Gold and the US dollar emerged as the clear favorites during recessions with the quickest recovery times and positive overall change. Investors can use these findings to make informed investment decisions during economic downturns.
 
 ## 4. Project Operations <a name="Operations"></a>
 
