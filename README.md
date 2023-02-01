@@ -144,12 +144,22 @@ The year 2020 was marked by one of the most severe economic downturns since the 
 
 ## 3. Conclusions and Key Findings <a name="Findings"></a>
 
+The US economy has experienced 11 recessions since 1948, averaging to approximately one recession every six years. Nevertheless, economic growth can vary greatly in length, with some lasting as short as a year and others spanning a decade. Historically, recessions have lasted an average of 11 months, with the Great Recession of 2008 lasting 18 months and the 2020 recession being the shortest on record, lasting just two months.
+
+Why do we study recessions if they are relatively rare events?
+
+Every recession is unique in its own way, and experts have been attempting for decades to uncover the underlying indicators that may signal their onset. However, the COVID-19 pandemic created a recessionary environment that was completely unexpected, leaving many experts struggling for answers. While we may not be able to predict the exact timing of a recession, our goal is to be as prepared as possible. Recessions can wipe out significant amounts of wealth and value in a short period of time, so it's important to understand which sectors and securities to avoid and which to consider during economic downturns.
+
+Our group reached our conclusions by analyzing three metrics: the steepest decline within the timeframe, the percentage change from the start to finish, and the recovery time in days to pre-recession levels. We created two types of charts to visualize this data: a line chart of equity sectors to show their relative movement during a recession, and scatter plots to reveal the relationships between the stock market, gold, the US dollar, bonds, and volatility index.
+
 ## 4. Project Operations <a name="Operations"></a>
 
 ### a. Data Collection and Cleanup <a name="Data"></a>
+
 From the raw csvs, pandas read_csv function was used to import the data. The index column was set to the first data column of each csv. Dates were parsed and standardized amongst each data set using pandas' csv functions. The axis column was renamed and standardized across data sets for ease of concatination, joining, and subsequent analysis. Each file required specific cleaning algorithms. For data files with commas and dashes, looping algorithms were used to go through each column and remove commas and dashes. These looping algorithms were also used to convert the imported string data into floats for subsequent analysis. The pandas .head function was used to visualize columns of the data as they were processed to check correctness of the data and columns. Column renaming functions were used accross data sets in order to standardize and ease analysis and data manipulation. Each set of data was plotted using hvplot in order to check "plotability" before moving on to futher manipulation and analysis. The to_csv pandas function was then used to save the resultant cleaned data as csvs in a directory with a specified path.
 
 ### b. Approach <a name="Approach"></a>
+
 The technologies used include:
 - Python: the sole development language of the analysis
 - pathlib library: to access and import csv files for various processes
@@ -159,10 +169,10 @@ The technologies used include:
 - numpy: library was used for data manipulation, analytics and processing
 
 Tasks: 
-Andrew Bader: Cleaning data and processing for analysis,setting up github version control
-Kunal Srinivasan: Data manipulation, processing and analysis
-Max Accurso: Data collection, recession analysis, Readme
-Evelyn Nazginov: recession analysis and power point presentation
+- **Andrew Bader**: Cleaning data and processing for analysis,setting up github version control
+- **Kunal Srinivasan**: Data manipulation, processing and analysis
+- **Max Accurso**: Project ideation, data collection, recession analysis, Readme
+- **Evelyn Nazginov**: recession analysis and power point presentation
 
 Challenges:
 - Finding complete and matching data sets
