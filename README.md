@@ -158,6 +158,23 @@ The technologies used include:
 - git and github: for local and external version control as well as data storage
 - numpy: library was used for data manipulation, analytics and processing
 
+Tasks: 
+Andrew Bader: Cleaning data and processing for analysis,setting up github version control
+Kunal Srinivasan: Data manipulation, processing and analysis
+Max Accurso: Data collection, recession analysis, Readme
+Evelyn Nazginov: recession analysis and power point presentation
+
+Challenges:
+- Finding complete and matching data sets
+- managing version control
+- developing meaningful analytics and corresponding processing algorithms
+- cleaning the data with appropriate algorithms
+
+Successes:
+- Developed a number of interesting plots describing our findings and analysis
+- Found complete sets of data for all desired assets which were successfully cleaned for analysis
+- Came up with interesting observations and analyses
+
 ### c. Data Sources <a name="Sources"></a>
 
 1. Yahoo Finance (https://finance.yahoo.com/)
