@@ -152,6 +152,14 @@ Every recession is unique in its own way, and experts have been attempting for d
 
 Our group reached our conclusions by analyzing three metrics: the steepest decline within the timeframe, the percentage change from the start to finish, and the recovery time in days to pre-recession levels. We created two types of charts to visualize this data: a line chart of equity sectors to show their relative movement during a recession, and scatter plots to reveal the relationships between the stock market, gold, the US dollar, bonds, and volatility index.
 
+Let's first examine the scatter plots for any correlations that may have emerged. Our analysis revealed consistent relationships between two of the four data points across all three recessionary periods. The 10-Year Treasury Yield and the S&P 500 consistently exhibited a strong positive correlation during recessions, while the CBOE Volatility Index and the S&P 500 showed a strong negative correlation. This suggests that bonds and stocks tend to move in tandem during economic downturns and that investors can expect similar returns from both markets during recessions.
+
+The CBOE Volatility Index, or VIX, is a real-time market index that reflects market expectations for volatility in the next 30 days. Investors use the VIX to gauge the level of risk, fear, or stress in the market when making investment decisions, which is why it has an inverse relationship with the stock market. As stock prices drop, investor worries increase and the volatility index spikes.
+
+The relationship between the US dollar and the S&P 500 during the 2001 recession was different compared to more recent recessions. In 2001, the US dollar and the S&P 500 showed a positive relationship, however, this relationship has become negative in recent years. This can be attributed to foreign investment, as more investors put their money into US equities, they first need to buy US dollars to purchase American stocks, causing both indexes to increase in value.
+
+Finally, the most intriguing relationship is between gold and the stock market. During periods when the S&P 500 is in the lower half of its value, there is a positive relationship between the index and gold. However, as the S&P 500 approaches its median value, an inflection point occurs and the relationship turns negative as the S&P 500 continues to rise. Investors prefer the higher returns of the S&P 500 over the stability of gold during economic expansion, causing this shift in the relationship.
+
 ## 4. Project Operations <a name="Operations"></a>
 
 ### a. Data Collection and Cleanup <a name="Data"></a>
