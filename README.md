@@ -38,7 +38,7 @@ As fears of an upcoming recession in the USA ramp up, our group conducted an in-
 - Time Frame Being Analyzed: 08/22/2000 – 1/2/2023
 - The 2001 Recession a.k.a 9/11 Recession (March-November 2001)
 - The 2008 Recession a.k.a Great Recession (December 2007 - June 2009) 
-- The 2020 Recession a.k.a COVID-19 Recession (February–April 2020)
+- The 2020 Recession a.k.a COVID-19 Recession (February-April 2020)
 
 ### d. Asset Classes and Index Used <a name="Asset"></a>
 
@@ -58,6 +58,8 @@ As fears of an upcoming recession in the USA ramp up, our group conducted an in-
 ## 2. Analysis of Recessions <a name="Analysis"></a>
 
 ### a. The 2001 Recession <a name="2001"></a>
+
+![9/11 Recession Equity Sectors](Charts/9-11%20Recession/9_11_Sectors.png)
 
 ### b. The 2008 Recession <a name="2008"></a>
 
