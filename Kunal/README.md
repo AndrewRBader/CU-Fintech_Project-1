@@ -5,7 +5,7 @@ B) Creation of several algorithms for calculating key metrices which the analysi
 Code blocks were parameterized such that it could be used for different recession periods analysed in this project.
 
 # 1) Import key libraries: 
-These include `pandas`, `numpy`, `pathlib`, `hvplot`. (`matplotlib` is not essential to the running of the program
+These include `pandas`, `numpy`, `pathlib`, `hvplot`
 # 2) Code blocks 2 - 4: Import csv data files and perform initial manipulations, concate the final datasets, rename variables for future steps
 In this step code for the Gold index data conversion had to be differentiated from others due to difference in base csv file structure
 # 3) Algorithm 1 (Code block 5): Calculates a correlation matrix for all the indices included in the analysis
