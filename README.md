@@ -24,6 +24,20 @@ As fears of an upcoming recession in the USA ramp up, our group conducted an in-
 
 ### a. Current Market Environment in America <a name="Market"></a>
 
+Since mid-2022, a heated debate has been taking place among politicians, economists, and market experts regarding the future of the US economy, and whether it is headed towards a recession or not. The argument is often swayed by political affiliations and hinges on the interpretation of the word "recession".
+
+According to a widely accepted definition of recession, two consecutive quarters of negative GDP growth would signal a recession, which would have started in the summer of 2022. However, the National Bureau of Economic Research (NBER), the organization responsible for defining US business cycles, does not agree with this assessment. The NBER views a recession as a substantial decrease in economic activity across the country that persists for more than a few months, and does not believe that a recession occurred in the summer of 2022.
+
+Despite this disagreement, the possibility of a recession still looms in the near future. The Federal Reserve has expressed its intention to increase interest rates until inflation begins to cool down from its current state, which could trigger a downturn in the economy that would be universally recognized as a recession.
+
+Economic Data from the Most Recent Reports:
+ - GDP Q4 2022 +2.9% (good)
+ - CPI December +6.5% (bad)
+ - Treasury Yield Curve 10Y/2Y Spread -0.66% (inverted, bad)
+ - Unemployment Rate December 3.5% (good)
+ - Initial Jobless Claims January 190,000 (good)
+ - Housing Starts December -1.4% (bad)
+
 ### b. Project Objectives <a name="Objectives"></a>
 
 - Analyze the performance of major indices, sectors, and securities throughout past recessions
@@ -35,7 +49,6 @@ As fears of an upcoming recession in the USA ramp up, our group conducted an in-
 
 ### c. Recessions and Time Periods <a name="Time"></a>
 
-- Time Frame Being Analyzed: 08/22/2000 – 1/2/2023
 - The 2001 Recession a.k.a 9/11 Recession (March-November 2001)
 - The 2008 Recession a.k.a Great Recession (December 2007 - June 2009) 
 - The 2020 Recession a.k.a COVID-19 Recession (February-April 2020)
@@ -139,3 +152,4 @@ As fears of an upcoming recession in the USA ramp up, our group conducted an in-
 4. Sector ETFs (https://www.cnbc.com/sector-etfs/)
 5. Gold Historical (https://data.nasdaq.com/data/LBMA/GOLD-gold-price-london-fixing)
 6. Past Recessions Overview (https://www.forbes.com/advisor/investing/how-long-do-recessions-last/)
+7. Recession Definition (https://www.rba.gov.au/education/resources/explainers/recession.html)
