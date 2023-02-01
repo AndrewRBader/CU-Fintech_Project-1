@@ -72,6 +72,8 @@ Economic Data from the Most Recent Reports:
 
 ### a. The 2001 Recession <a name="2001"></a>
 
+The 2001 recession, lasting from March to November, was one of the mildest on record and followed the longest economic expansion in U.S. history. The Federal Reserve played a crucial role in mitigating the recession by raising and later cutting the fed funds rate. By mid-2003, the benchmark rate reached a low of 1%. The dot-com bubble bust was the main cause of the recession, triggered by a boom in the dot-com industry partly fueled by Y2K concerns. Companies invested heavily in new software, leading to significant overvaluation and failure of many dot-com businesses. The 9/11 attacks added to the economic turmoil and resulted in two quarters of contraction, with the economy contracting by -1.3% in Q1 and -1.6% in Q3. Unemployment continued to rise, peaking at 6.3% in June 2003.
+
 ![9/11 Recession Equity Sectors](Charts/9-11%20Recession/9_11_Sectors.png)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -94,6 +96,8 @@ Economic Data from the Most Recent Reports:
 
 ### b. The 2008 Recession <a name="2008"></a>
 
+The Great Recession was a major economic downturn that impacted the world from 2007 to 2009, becoming the longest period of contraction since the Great Depression. The subprime mortgage market was the trigger for the crisis which quickly spread to the global banking sector. The widespread use of derivatives worsened the situation, as evidenced by a decrease in GDP over three consecutive quarters in 2008, with an 8.5% drop in the final quarter. Unemployment rose to 10% in October 2009, following the end of the recession. The recovery began in the third quarter of 2009, thanks to the American Recovery and Reinvestment Act, which boosted GDP. The recession caused a global financial crisis and bear market in stocks, becoming the most severe economic downturn since the 1937-38 recession. The inflow of global investment into the U.S. may have played a role in unethical practices in the mortgage market, while the fluctuations in oil prices caused a depression in the U.S. oil industry.
+
 ![Great Recession Equity Sectors](Charts/Great%20Recession/Great_Sectors.png)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -115,6 +119,8 @@ Economic Data from the Most Recent Reports:
 <p>&nbsp;</p>
 
 ### c. The 2020 Recession <a name="2020"></a>
+
+The year 2020 was marked by one of the most severe economic downturns since the Great Depression. To combat this, the Federal Reserve stepped in, reducing the fed funds rate to nearly 0% in March. The government also offered substantial financial aid in the form of billions of dollars. The U.S. economy experienced a record contraction of 31.2% in Q2, following a 5.1% decrease in the preceding quarter. This resulted in an unprecedented loss of 20.5 million jobs in April, causing the unemployment rate to surge to 14.7%, remaining in double digits until August. The COVID-19 pandemic also caused a great deal of uncertainty, leading to a stock market crash. Although the economy did recover to some extent, with a growth of 33.8% in Q3, it was not enough to fully offset the earlier losses. The federal funds rate remained near zero until March 2022.
 
 ![COVID-19 Recession Equity Sectors](Charts/COVID%20Recession/COVID_Sectors.png)
 <p>&nbsp;</p>
