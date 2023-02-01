@@ -17,6 +17,7 @@ Code developed by Andrew Bader, Evelyn Nazginov, Kunal Srinivasan, and Max Accur
     - a. [Data Collection and Cleanup](#Data)
     - b. [Approach](#Approach)
     - c. [Data Sources](#Sources)
+4. [Installation Instructions](#Installation)
 
 ## 1. Introduction <a name="Introduction"></a>
 
@@ -219,3 +220,15 @@ Successes:
 5. Past Recessions Overview (https://www.forbes.com/advisor/investing/how-long-do-recessions-last/)
 6. Recession Definition (https://www.rba.gov.au/education/resources/explainers/recession.html)
 7. Economic Data (https://www.bankrate.com/banking/federal-reserve/economic-indicator-survey-recession-risks-january-2023/)
+
+## 5. Installation Instructions <a name="Installation"></a>
+To clone and use:
+1) make a local directory for this github repository
+2) clone down this repo with git clone command
+3) cd into cloned repo
+4) activate conda development environment
+5) install dependency via the following command:
+
+    pip install pandas
+
+6) open in Jupyter Notebook
