@@ -60,6 +60,10 @@ As fears of an upcoming recession in the USA ramp up, our group conducted an in-
 ### a. The 2001 Recession <a name="2001"></a>
 
 ![9/11 Recession Equity Sectors](Charts/9-11%20Recession/9_11_Sectors.png)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
 
 ### b. The 2008 Recession <a name="2008"></a>
 
